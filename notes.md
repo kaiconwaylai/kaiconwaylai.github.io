@@ -7,4 +7,4 @@
 - Machine Learning
 - MIPS CPU
 - Issie Contribution
-
+- Audio Synth
